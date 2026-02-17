@@ -1,0 +1,3 @@
+# defines the dependencies for the tic tac toe app
+Django~=5.2 # ~= alllows patch updates but not minor or major updates
+django-environ
